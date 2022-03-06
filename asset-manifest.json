@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://thesquaredude.github.io/csb-pqcrej/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://thesquaredude.github.io/csb-pqcrej/static/js/main.7096b142.chunk.js",
+    "main.js.map": "https://thesquaredude.github.io/csb-pqcrej/static/js/main.7096b142.chunk.js.map",
+    "runtime-main.js": "https://thesquaredude.github.io/csb-pqcrej/static/js/runtime-main.035d82d5.js",
+    "runtime-main.js.map": "https://thesquaredude.github.io/csb-pqcrej/static/js/runtime-main.035d82d5.js.map",
+    "static/js/2.92bdbc20.chunk.js": "https://thesquaredude.github.io/csb-pqcrej/static/js/2.92bdbc20.chunk.js",
+    "static/js/2.92bdbc20.chunk.js.map": "https://thesquaredude.github.io/csb-pqcrej/static/js/2.92bdbc20.chunk.js.map",
+    "index.html": "https://thesquaredude.github.io/csb-pqcrej/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://thesquaredude.github.io/csb-pqcrej/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.92bdbc20.chunk.js.LICENSE.txt": "https://thesquaredude.github.io/csb-pqcrej/static/js/2.92bdbc20.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.035d82d5.js",
+    "static/js/2.92bdbc20.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.7096b142.chunk.js"
+  ]
+}
